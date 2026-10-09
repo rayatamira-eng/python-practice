@@ -1,18 +1,23 @@
-# python-practice
-# Python Practice
+# Python Practice 🐍✨
 
-## About
-I am learning Python and GitHub.
+### About Me
+Hi, I am learning Python and GitHub to start my career in tech.
 
-## My Career Goals
-- Software Engineer
-- Data Analyst
+### My Career Goals
+- Become a Software Engineer
+- Become a Data Analyst
 
-## My Learning Plan
-- Python basics
-- Git and GitHub
+### What I am Learning
+- Python Basics
+- Git & GitHub
 - SQL
-- Data analysis
+- Data Analysis
 
-## Projects
-More projects coming soon!
+### My Projects
+- Project 1: Simple Calculator (Coming soon)
+- More projects are on the way!
+
+### Tech Stack
+Python | Git | GitHub | SQL
+
+Let's connect and grow together!
