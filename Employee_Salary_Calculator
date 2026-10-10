@@ -1,0 +1,14 @@
+Besic_Salary= 25000
+Bonus=3000
+Travel_Expense=1500
+Tax=2000
+Total_Salary=Besic_Salary+Bonus
+Final_Salary=Total_Salary-Tax-Travel_Expense
+print(".......................................")
+print("Besic_Salary=", Besic_Salary)
+print("Bonus=", Bonus)
+print("Travel_Expense=", Travel_Expense)
+print("Tax=", Tax)
+print("Total_Salary=", Total_Salary)
+print("Final_Salary=", Final_Salary)
+print("......................................")
