@@ -13,8 +13,7 @@ Hi, I am learning Python and GitHub to start my career in tech.
 ### What I am Learning
 - Python Basics
 - Git & GitHub
-- SQL
-- Data Analysis
+
 
 ### My Projects
 - Project 1: Simple Calculator (Coming soon)
