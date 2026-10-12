@@ -17,10 +17,10 @@ Hi, I am learning Python and GitHub to start my career in tech.
 
 ### My Projects
 •Project 1: shopping bill pay 
-•Project 2: 
+•Project 2: Employee_Salary_Calculator 
 
 
 ### Tech Stack
-Python | Git | GitHub | SQL
+Python | Git | GitHub ।
 
 Let's connect and grow together!
