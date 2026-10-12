@@ -16,8 +16,9 @@ Hi, I am learning Python and GitHub to start my career in tech.
 
 
 ### My Projects
-- Project 1: Simple Calculator (Coming soon)
-- More projects are on the way!
+•Project 1: shopping bill pay 
+•Project 2: 
+
 
 ### Tech Stack
 Python | Git | GitHub | SQL
