@@ -15,4 +15,4 @@ print("Wallet=", Wallet)
 print("Subtotal=", Subtotal)
 print("Total_Bill=", Total_Bill)
 print("Remaining_money=", Remaining_money)
-print("===================")
+print("===================")💟
