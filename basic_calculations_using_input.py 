@@ -1,0 +1,7 @@
+salary= int(input("Enter salary:"))
+tax=int(input("Enter tax:"))
+print(salary-tax)
+rectangle_length=int(input("Enter length:"))
+rectangle_width=int(input("Enter width:"))
+area=rectangle_length*rectangle_width
+print(area)
